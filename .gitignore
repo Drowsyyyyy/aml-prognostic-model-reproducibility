@@ -1,0 +1,28 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.token
+
+# Raw and patient-level data
+data/raw/
+data/processed/
+*.tar.gz
+
+# Patient-level prediction output
+outputs/tables/oof_predictions.csv
+
+# Local-only authoring files
+README_GITHUB.md
+PUBLIC_GITIGNORE
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

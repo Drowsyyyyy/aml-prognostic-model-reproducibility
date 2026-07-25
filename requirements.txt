@@ -1,0 +1,9 @@
+pandas==2.3.3
+numpy==2.5.1
+scipy==1.18.0
+matplotlib==3.11.1
+seaborn==0.13.2
+scikit-learn==1.9.0
+scikit-survival==0.28.0
+lifelines==0.30.3
+
