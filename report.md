@@ -272,18 +272,12 @@ AML expression cohort such as GSE37642. That extension should prespecify:
 
 If performance drops materially, that drop is a result rather than a failure.
 
-## 8. Reproducibility and responsible use
+## 8. Reproducibility 
 
 The full pipeline, data hashes, fold-level predictions, coefficient histories,
 tables, and figures are retained in this project. Run
 `scripts/99_quality_checks.py` after reproduction; the current artifacts pass
 all checks.
-
-This project was produced with AI assistance as a research prototype. It cannot
-be represented as an independently completed student study or as faculty-
-supervised work unless the student actually reproduces and understands the
-analysis and a faculty member genuinely supervises it. Any academic use should
-include an accurate disclosure of contributions.
 
 ## References
 
