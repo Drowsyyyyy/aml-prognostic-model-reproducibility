@@ -1,0 +1,21 @@
+{
+  "random_seed": 20260724,
+  "participants": 173,
+  "events": 114,
+  "outer_folds": 25,
+  "top_genes_per_training_fold": 250,
+  "l1_ratio": 0.9,
+  "clinical_penalty_weight_in_combined": 0.05,
+  "model_mean_cindex": {
+    "Clinical": 0.6954829709745747,
+    "Combined": 0.6893016018807034,
+    "Expression": 0.6212614509899512
+  },
+  "permutations": 20,
+  "expression_alpha_for_permutation": 0.15822421301680498,
+  "permutation_mean_cindex_mean": 0.5185745295443718,
+  "permutation_mean_cindex_min": 0.44240330832860675,
+  "permutation_mean_cindex_max": 0.6258939378536662,
+  "combined_oof_median_cutoff": 0.15953420064092025,
+  "combined_oof_logrank_p": 1.158661528736761e-08
+}
