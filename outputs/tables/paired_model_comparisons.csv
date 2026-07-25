@@ -1,0 +1,4 @@
+comparison,mean_cindex_difference,median_cindex_difference,folds_first_better,total_folds
+Combined minus Clinical,-0.0061813690938711426,-0.002105263157894721,10,25
+Expression minus Clinical,-0.07422151998462334,-0.06302521008403361,4,25
+Combined minus Expression,0.0680401508907522,0.05531914893617029,22,25
