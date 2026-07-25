@@ -195,13 +195,10 @@ actionable threshold, or treatment benefit.
 The next phase is external validation in an independent AML expression cohort,
 with platform harmonization and no outcome-based external retuning.
 
-## Portfolio and AI disclosure
+## Portfolio
 
-This repository is a retrospective portfolio publication of a completed
-AI-assisted pilot. Git was not used prospectively throughout the original
-analysis, and the commit history begins with the portfolio publication. AI
-assistance supported analysis design, code generation, debugging,
-documentation, and interpretation. See `PORTFOLIO_DISCLOSURE.md`.
+This repository is a retrospective portfolio publication. Git was not used prospectively throughout the original
+analysis, and the commit history begins with the portfolio publication.
 
 The repository does not imply faculty supervision. Any academic description
 must reflect the work, understanding, and supervision that actually occurred.
